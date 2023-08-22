@@ -1,0 +1,13 @@
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EFF_First.exe.config
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EFF_First.exe
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EFF_First.pdb
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EntityFramework.dll
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EntityFramework.xml
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.csproj.CoreCompileInputs.cache
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.csproj.CopyComplete
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.exe
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.pdb
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.csproj.GenerateResource.cache
+C:\Users\890971\OneDrive - Cognizant\Desktop\.NET\EF\EFF_First\EFF_First\obj\Debug\EFF_First.Migrations.first_migration_2.resources
